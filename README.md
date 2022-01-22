@@ -8,4 +8,4 @@ HK_helm_train_1h.m is the code for khelm only one layer. i have write 4 scrips f
 It help you rewrite the file main2_k.m and main1_hk_1h.m. The first one is the experient for keml, and the
  second one is for hkelm with one layer.
 
-If you need any help regarding the implimentaion reach me at s2140019@edu.cc.ac.jp
+If you need any help regarding the implimentaion reach me at s2140019@edu.cc.uec.ac.jp

@@ -1,7 +1,7 @@
 # ADHD-classification
 This is the code of my paper Functional connectivity based Classification of ADHD Using HELM.
 
-flod5data is our data;i have already segement it into 5-flod for the 5-fold-crossvalidation.
+flod5data is our data; I have already segement it into 5-flod for the 5-fold-crossvalidation.
 
 HK_helm_train_1h.m is the code for khelm only one layer. i have write 4 scrips for one layer to four layer you can add more layer to record the result.
 
